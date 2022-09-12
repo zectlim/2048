@@ -2,10 +2,8 @@
 2048 GUI game with two modes, best score and best move written in Scala
 
 Prerequisites
-```
 - Scala
 - Java JDK 8
-```
 
 How to run: <br/>
 Run sbt on the 2048 directory <br/>
